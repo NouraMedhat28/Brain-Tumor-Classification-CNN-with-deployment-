@@ -28,3 +28,16 @@ Model summary
  Model Evaluation
 <br/>
 ![Screenshot (52)](https://user-images.githubusercontent.com/96621514/202285776-28e27d5b-0060-4397-bb9a-db267779f83a.png)
+<br/>
+<br/>
+<b> Project Deployment using Flask <b/>
+<br/>
+![photo6033081329253464743](https://user-images.githubusercontent.com/96621514/202583724-d0c9ac2b-3f72-428f-90af-45cdea463fb9.jpg)
+<br/>
+<br/>
+![photo6033081329253464744](https://user-images.githubusercontent.com/96621514/202583452-4895968f-18bf-4e1a-8e51-787dac600509.jpg)
+<br/>
+using the application in the classification process
+<br/>
+<br/>
+NOTE: This the final project of the summer AI internship offered by Samsung :)
