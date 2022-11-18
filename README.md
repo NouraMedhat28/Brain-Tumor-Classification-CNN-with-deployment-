@@ -40,4 +40,4 @@ Model summary
 using the application in the classification process
 <br/>
 <br/>
-NOTE: This the final project of the summer AI internship offered by Samsung :)
+NOTE: This is the final project of the summer AI internship offered by Samsung :)
